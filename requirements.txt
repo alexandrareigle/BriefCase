@@ -1,0 +1,10 @@
+anthropic
+yfinance
+python-dotenv
+newsapi-python
+sendgrid
+apscheduler
+streamlit
+resend
+gspread
+oauth2client

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Alexandra Reigle",
+    "email": "alexandrareigle10@gmail.com",
+    "risk_profile": "Aggressive",
+    "investment_focus": [
+      "Growth",
+      "Balanced",
+      "Alternative Investments"
+    ],
+    "holdings": [
+      "MU",
+      "TLT",
+      "SPCX",
+      "AAPL"
+    ],
+    "topics": [
+      "Treasury Yields",
+      "Federal Reserve / Interest Rates",
+      "Dollar Strength",
+      "Technology / AI",
+      "Financials / Banking",
+      "Warren Buffet"
+    ],
+    "briefing_time": "6:00 AM",
+    "detail_level": "Standard \u2014 balanced detail and brevity",
+    "additional_notes": ""
+  }
+]
